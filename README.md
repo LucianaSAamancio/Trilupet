@@ -4,6 +4,7 @@ O **Trilupet** é um website completo que oferece todos os tipos de serviços qu
 
 Nosso objetivo é conectar tutores a serviços de qualidade, com praticidade, confiança e cuidado com os animais.
 
+
 **🌟 Principais Funcionalidades**
 
 **Cadastro de Done de Pets**: Permite que Donos de Pets criem perfis personalizados informando dados dos seus animais.
@@ -15,6 +16,7 @@ Nosso objetivo é conectar tutores a serviços de qualidade, com praticidade, co
 **Agendamento de Serviços**: Marque consultas veterinárias, banhos, tosas, passeios e hospedagens de forma simples e rápida.
 
 **Alteração e Cancelamento de Agendamentos**: Flexibilidade para gerenciar os compromissos do seu Pet.
+
 
 **📌 Roadmap**
 
