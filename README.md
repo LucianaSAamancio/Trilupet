@@ -15,3 +15,7 @@ Nosso objetivo é conectar tutores a serviços de qualidade, com praticidade, co
 **Agendamento de Serviços**: Marque consultas veterinárias, banhos, tosas, passeios e hospedagens de forma simples e rápida.
 
 **Alteração e Cancelamento de Agendamentos**: Flexibilidade para gerenciar os compromissos do seu Pet.
+
+**👩‍💻 Autora**
+
+Projeto desenvolvido por Luciana da Silva Abreu Amancio.
