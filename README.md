@@ -16,6 +16,13 @@ Nosso objetivo é conectar tutores a serviços de qualidade, com praticidade, co
 
 **Alteração e Cancelamento de Agendamentos**: Flexibilidade para gerenciar os compromissos do seu Pet.
 
+**📌 Roadmap**
+1 - O arquivo "canvas-url-Trilupet.txt" contém o link público para o **Lean Inception com o MVP Canvas**;
+2 - O arquivo "product-backlog-Trilupet.pdf" contém o **Backlog do Produto**;
+3 - O arquivo "sprint-backlog-Trilupet.pdf" contém o **Backlog da Sprint**;
+4 - A pasta "wireframe-Trilupet" contém os **Protótipos de Interface** feitos no Figma;
+5 - O arquivo "ApresentacaoTrilupet.txt" contém o link para o vídeo de **Apresentação do Trilupet**.
+
 
 
                                                               👩‍💻 Autora: Projeto desenvolvido por Luciana da Silva Abreu Amancio.
