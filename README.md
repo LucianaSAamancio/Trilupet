@@ -1,6 +1,6 @@
 # 🐾 Trilupet Service
 
-O Trilupet é um website completo que oferece todos os tipos de serviços que um Dono de Pet precisa em um só lugar.
+O **Trilupet** é um website completo que oferece todos os tipos de serviços que um Dono de Pet precisa em um só lugar.
 
 Nosso objetivo é conectar tutores a serviços de qualidade, com praticidade, confiança e cuidado com os animais.
 
