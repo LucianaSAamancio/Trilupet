@@ -18,4 +18,4 @@ Nosso objetivo é conectar tutores a serviços de qualidade, com praticidade, co
 
 
 
-                                                              **👩‍💻 Autora: Projeto desenvolvido por Luciana da Silva Abreu Amancio.**
+                                                              👩‍💻 Autora: Projeto desenvolvido por Luciana da Silva Abreu Amancio.
