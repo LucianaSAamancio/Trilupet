@@ -28,7 +28,9 @@ Nosso objetivo é conectar tutores a serviços de qualidade, com praticidade, co
 
 4 - A pasta "wireframe-Trilupet" contém os **Protótipos de Interface** feitos no Figma;
 
-5 - O arquivo "ApresentacaoTrilupet.txt" contém o link para o vídeo de **Apresentação do Trilupet**.
+5 - O arquivo "ApresentacaoTrilupet.txt" contém o link para o vídeo de **Apresentação do Trilupet**. 
+
+6 - Também disponível o video "**ApresentacaoTrilupet.mp4**" na pasta raiz do projeto.
 
 
 
